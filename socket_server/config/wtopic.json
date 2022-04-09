@@ -1,0 +1,30 @@
+[    
+    {
+    "topic_name": "socket_string", 
+    "data": " "
+    },
+    {
+        "topic_name": "cmd_vel", 
+        "linear_x": 0, 
+        "linear_y": 0, 
+        "angular_z": 0
+    },
+    {
+        "topic_name": "move_base/goal", 
+        "point_x": 0, 
+        "point_y": 0, 
+        "point_angle": 0
+    },
+    {
+        "topic_name": "odom", 
+        "linear_x": 0, 
+        "linear_y": 0, 
+        "angular_z": 0
+    },
+    {
+        "topic_name": "imu", 
+        "linear_x": 0, 
+        "linear_y": 0, 
+        "angular_z": 0
+    }
+]
